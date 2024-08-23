@@ -30,8 +30,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='https://imgur.com/a/8PxpZoA' title='Video Walkthrough' width='' alt='Video Walkthrough'> </video>
-
+<video width="600" controls>
+  <source src="https://imgur.com/a/8PxpZoA" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
